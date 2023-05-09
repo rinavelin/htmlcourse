@@ -49,12 +49,11 @@ body {
     color: white;
 }
 
-#gradient {
+.gradient {
     background: linear-gradient(darkGrey, dimgray);
 }
 
-.button:nth-child(4n),
-.button:last-child {
+.operator {
     background: #f98110;
     color: #fff;
 }
